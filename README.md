@@ -1,0 +1,2 @@
+Marcos id code written in cpp is used to fetch the data to calculate the lifetime of a excited nuclear state and then data analysis if performed on it i.e. 
+curve fitting with different types of functions with different sets of parameters(The python files are attached).  
